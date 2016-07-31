@@ -1,2 +1,2 @@
 # HolaMundo
-Eso solo otro repositorio mas
+Es solo otro repositorio mas
