@@ -1,2 +1,2 @@
 # HolaMundo
-Es solo otro repositorio mas
+No entiendo nada
